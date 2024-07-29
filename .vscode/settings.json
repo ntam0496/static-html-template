@@ -24,7 +24,7 @@
     ".rspec": true,
     ".devcontainer/": true,
     "config.ru": true,
-    "Dockerfile": false,
+    "Dockerfile": true,
     "Gemfile": true,
     "Gemfile.lock": true,
     "tmp/": true,
