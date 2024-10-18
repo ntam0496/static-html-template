@@ -1,3 +1,13 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
 body {
   margin: 0;
   /* this font size will effect all elements (other than h1 -> h6) on the page */
